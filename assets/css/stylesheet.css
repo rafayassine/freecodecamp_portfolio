@@ -1,0 +1,15 @@
+#header{
+height: 500px;
+background-color: red;
+}
+#projects{
+height: 500px;
+background-color: yellow;
+}
+#contact{
+height: 500px;
+background-color: blue;
+}
+footer{
+  padding:30px;
+}
